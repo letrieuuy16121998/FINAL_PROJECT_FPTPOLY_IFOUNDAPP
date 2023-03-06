@@ -1,1 +1,1 @@
-# FINAL_PROJECT_FPTPOLY_IFOUNDAPP
+# This is my final project in my college FPT Polytechnic. Use Nodejs and React Native to code, use Mongodb as database. This app builded with the purpose for customers to buy all auth products of Apple. This app to be used for admin and customers, admin can manage all infomations of product, add, edit, or change everything about products, customers can see all products, add to card, order products, manage own order and own infomation.
