@@ -1,0 +1,3 @@
+mongosh "mongodb+srv://cluster0.chha5kj.mongodb.net/myFirstDatabase" --apiVersion 1 --username iFound
+
+mongodb+srv://iFound:<password>@cluster0.chha5kj.mongodb.net/?retryWrites=true&w=majority
